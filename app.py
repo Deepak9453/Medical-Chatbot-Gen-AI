@@ -14,8 +14,8 @@ app = Flask(__name__)
 
 load_dotenv()
 
-os.environ["PINECONE_API_KEY"] = "pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtBqCERquSDS"
-#PINECONE_API_KEY = "pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtBqCERquSDS"
+os.environ["PINECONE_API_KEY"] = "pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtBqCER**********"
+
 PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
 
 
@@ -23,8 +23,8 @@ PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
 #PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
 #GOOGLE_API_KEY=os.environ.get('GOOGLE_API_KEY')
 
-PINECONE_API_KEY="pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtBqCERquSDS"
-GOOGLE_API_KEY='AIzaSyDm4DYOo-1ohGNnOEHUlbuJ0cNAVTio-GQ'
+PINECONE_API_KEY="pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtBq*************"
+GOOGLE_API_KEY='AIzaSyDm4DYOo-1ohGNnOEHUlbuJ0***********'
 
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
