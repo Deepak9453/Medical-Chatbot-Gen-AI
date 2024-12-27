@@ -5,7 +5,6 @@ from langchain_pinecone import PineconeVectorStore
 from dotenv import load_dotenv
 import os
 
-
 load_dotenv()
 os.environ["PINECONE_API_KEY"] = "pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt3pFE2UreFUrbMNHmtAtB************"
 PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
