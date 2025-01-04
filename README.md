@@ -1,4 +1,4 @@
-# Medical-Chatbot-Generative-AI-main
+# Medical-Chatbot-Generative-AI
 Medical-Chatbot-Generative-AI
 
 
@@ -59,6 +59,7 @@ open up localhost:
 - GPT
 - Pinecone
 
+# Optional----------
 
 # AWS-CICD-Deployment-with-Github-Actions
 
