@@ -19,7 +19,6 @@ os.environ["PINECONE_API_KEY"] = "pcsk_34h5tB_7w5M2gFgLaJ4biBGF9oAq28MvFsaqRf4Bt
 PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
 
 
-
 #PINECONE_API_KEY=os.environ.get('PINECONE_API_KEY')
 #GOOGLE_API_KEY=os.environ.get('GOOGLE_API_KEY')
 
